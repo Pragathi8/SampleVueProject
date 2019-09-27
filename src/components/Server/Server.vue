@@ -22,3 +22,11 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+    .list-group-item {
+        cursor: pointer;
+        box-shadow: 1px 1px 1px #3434;
+        margin: 2px;
+    }
+</style>
